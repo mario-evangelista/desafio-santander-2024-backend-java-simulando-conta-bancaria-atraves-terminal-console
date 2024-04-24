@@ -1,4 +1,6 @@
-# ContaBanco
+# Santander 2024 - Backend com Java
+# Desafio
+# Simulando Uma Conta Bancária Através Do Terminal/Console
 
 Este é um simples projeto em Java que permite criar uma conta bancária e exibir os dados inseridos pelo usuário.
 
@@ -34,5 +36,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ```
-
-Este é apenas um exemplo simples. Você pode expandi-lo com mais informações sobre o projeto, como requisitos, instalação, uso avançado, etc. Certifique-se de substituir `seu-usuario` com o seu nome de usuário no GitHub e ajustar conforme necessário para refletir o conteúdo e a estrutura do seu projeto.
